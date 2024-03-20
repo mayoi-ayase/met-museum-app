@@ -111,7 +111,7 @@ const Search = () => {
         </div>
       </Form>
       <div className="search-nav-links">
-        <Link reloadDocument className="link-hover me-2" to="/paintings">
+        <Link className="link-hover me-2" to="/paintings">
           I'm out of ideas. Let's go to a random room. {<ChevronRight />}
         </Link>
         <Link className="link-hover ms-2" to="/">
