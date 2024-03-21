@@ -1,2 +1,2 @@
 # AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-the deployment on vercel is kind of broken sirry I don't know what's wrong with it
+i also deployed it on vercel I wanted to see if it worked with a live deployment
