@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+        {"source": "/(.*)", "destination": "/"}
+    ]
+}
+
+// hi Dan if you see this this file is to prevent Vercel from throwing a 404 error when the page is refreshed because I wanted to see if my program worked if I deployed it live 
